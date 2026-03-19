@@ -37,11 +37,10 @@ A hybrid iOS application that lists popular movies and displays detailed informa
 3.  The necessary API key is already integrated into the source code.
 4.  Select a Simulator or a physical device and press **Run (Cmd + R)** to launch the application.
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 <p align="center">
-  <img src="PopulerMovies/1.png" width="45%" />
-  <img src="PopulerMovies/2.png" width="45%" /> 
+  <img src="PopulerMovies/2.png" width="300" /> 
 </p>
 
 ---
