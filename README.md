@@ -39,7 +39,10 @@ A hybrid iOS application that lists popular movies and displays detailed informa
 
 ## 📸 Screenshots
 
-Sample screenshots are available in the `PopulerMovies/PopulerMovies` directory (`1.png`, `2.png`).
+<p align="center">
+  <img src="1.png" width="45%" />
+  <img src="2.png" width="45%" /> 
+</p>
 
 ---
 **Developer:** Koray Urun
