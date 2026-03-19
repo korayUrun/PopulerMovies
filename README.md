@@ -40,8 +40,8 @@ A hybrid iOS application that lists popular movies and displays detailed informa
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="PopularMovies/1.png" width="45%" />
-  <img src="PopularMovies/2.png" width="45%" /> 
+  <img src="PopulerMovies/1.png" width="45%" />
+  <img src="PopulerMovies/2.png" width="45%" /> 
 </p>
 
 ---
